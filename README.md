@@ -1,8 +1,10 @@
-# Team Project Name
+# Flu Fighters
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader), contact information
-- Participant, Affiliation
+- Team Leader: Heather Patterson, University of Alabama at Birmingham
+- Resource Specialists: Gabriel Guzman, Triton College
+- Writer: Ifrah Shahi, University of Pennsylvania/Children's Hospital of Philadelphia
+- Flex: Ferdinand Nanfack-Minkeu, College of Wooster
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
@@ -11,7 +13,13 @@ Briefly describe the developed curriculum package. Include the target audience (
 List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
-List the specific learning goals students will achieve with this curriculum.
+At the end of this course the student will be able to:
+- List the steps involved in the replication of influenza viruses 
+- Define what is a virus, a vaccine, antigenic drift, R0, herd immunity,
+- Demonstrate use of R0 for H1N1 and H5N1
+- Use NCBI Virus BLAST to compare sequences of different influenza viruses.
+- Identify the variable sequences of the target proteins of influenza viruses.
+
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
