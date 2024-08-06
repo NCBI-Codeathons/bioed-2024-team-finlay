@@ -2,7 +2,7 @@
 
 List of participants and affiliations:
 - Team Leader: Heather Patterson, University of Alabama at Birmingham
-- Resource Specialists: Gabriel Guzman, Triton College
+- Resource Specialists: Gabriel Guzman, Triton College; Kari Severson Rockford University
 - Writer: Ifrah Shahi, University of Pennsylvania/Children's Hospital of Philadelphia
 - Flex: Ferdinand Nanfack-Minkeu, College of Wooster
 
