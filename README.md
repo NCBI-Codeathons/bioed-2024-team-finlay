@@ -1,10 +1,10 @@
 # Flu Fighters
 
 List of participants and affiliations:
-- Team Leader: Heather Patterson, University of Alabama at Birmingham
-- Resource Specialists: Gabriel Guzman, Triton College; Kari Severson Rockford University
-- Writer: Ifrah Shahi, University of Pennsylvania/Children's Hospital of Philadelphia
-- Flex: Ferdinand Nanfack-Minkeu, College of Wooster
+- **Team Leader**: Heather Patterson, University of Alabama at Birmingham
+- **Resource Specialists**: Gabriel Guzman, Triton College; Kari Severson Rockford University
+- **Writer**: Ifrah Shahi, University of Pennsylvania/Children's Hospital of Philadelphia
+- **Flex**: Ferdinand Nanfack-Minkeu, College of Wooster
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
