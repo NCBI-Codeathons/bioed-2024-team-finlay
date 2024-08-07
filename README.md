@@ -7,10 +7,13 @@ List of participants and affiliations:
 - **Flex**: Ferdinand Nanfack-Minkeu (College of Wooster)
 
 # Project Summary
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
+The goal of this project is to help students learn how vaccinations in general function by how antigen sequence/structure affects vaccine efficacy. This project is modular, to allow instructors flexibility in choosing the length of the project and the target audience. By choosing to do only 1 module or both modules, the project can be tailored to either introductory level undergraduate students or late-stage undergraduate students.
+
+In Module 1, students will learn how the yearly influenza vaccine functions. Students will align the amino acid sequences of H1 hemagglutinin isoforms (the viral protein subtype used as a primary vaccine antigen) to find regions of conservation and variability, and then compare with H5 hemagglutinin (a subtype not included in vaccines). Students will further compare the protein structures of H1 and H5 to visualize how the amino acid sequence variability might affect protein structure, and how that influences vaccine effectiveness. 
+
+In Module 2, students will dive deeper into the concept of antigenic drift, extrapolate on the knowledge from Module 1 to explore amino acid sequences and protein structures of several measles hemagglutinin proteins, and make the connection to why we do not require new measles vaccines periodically as we do for the flu.
 
 # Curricular Package Details
-List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
 At the end of this course the student will be able to:
@@ -22,10 +25,12 @@ At the end of this course the student will be able to:
 
 
 ## Course Materials
-Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
+A list of background readings to provide ample introduction to the topics explored in this project. 
+Student handouts for Modules 1 and 2
+NCBI Collections of influenza hemagglutinin sequences and measles hemagglutinin sequences
 
 ## Assessments
-Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
+As part of the student handout, students will answer a series of questions based on activity components.
 
 ## Future Work
 Optional section. Briefly mention any potential future development plans for the curriculum package.
