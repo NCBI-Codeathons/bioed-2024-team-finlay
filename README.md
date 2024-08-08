@@ -29,6 +29,8 @@ A list of background readings to provide ample introduction to the topics explor
 Student handouts for Modules 1 and 2
 NCBI Collections of influenza hemagglutinin sequences and measles hemagglutinin sequences
 
+https://docs.google.com/document/d/1GyfDv7ULIa9tDuJH3vj2_aD7Yp-EzTF9fPydxTx3VTA/edit
+
 ## Assessments
 As part of the student handout, students will answer a series of questions based on activity components.
 
