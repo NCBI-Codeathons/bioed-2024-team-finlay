@@ -9,7 +9,7 @@ List of participants and affiliations:
 # Project Summary
 The goal of this project is to help students learn how vaccinations in general function and how antigen sequence/structure affects vaccine efficacy. This project is modular, to allow instructors flexibility in choosing the length of the project and the target audience. By choosing to do only 1 module or 2-3 modules, the project can be tailored to either early-stage undergraduate students or late-stage undergraduate students.
 
-In Module 1, students will focus on hemagglutinin subtype H1, the subtype targeted by current influenza vaccines. Students will align the amino acid sequences of H1 hemagglutinin variants to understand the concept of antigenic drift. Students will further look at the 3D protein structure of H1, and note the regions of variability how that might influence vaccine effectiveness. 
+In Part 1, students will focus on hemagglutinin subtype H1, the subtype targeted by current influenza vaccines. Students will align the amino acid sequences of H1 hemagglutinin variants to understand the concept of antigenic drift. Students will further look at the 3D protein structure of H1, and note the regions of variability how that might influence vaccine effectiveness. 
 
 In Part 2, students will compare compare H1 amino acid sequence with the H5 subtype (a subtype found in an avian influenza virus), and discuss the potential of current flu vaccines against H5.
 
@@ -30,7 +30,7 @@ At the end of this course the student will be able to:
 - Generate a hypothesis about the genetic basis for a seasonal vaccine against human influenza (H1N1).
 - Identify important factors that must be considered when designing a vaccine against a protein antigen.
 - Evaluate the potential of current flu vaccines to protect against avian Influenza (H5N1).
-- Examine the reasons for requiring only a single measles vaccine in contrast to requiring yearly influenza vaccines to maintain immunity.
+- Explain the reasons for requiring only a single measles vaccine in contrast to requiring yearly influenza vaccines to maintain immunity.
 
 
 ## Course Materials
