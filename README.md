@@ -31,19 +31,31 @@ At the end of this course the student will be able to:
 - Examine the reasons for requiring only a single measles vaccine in contrast to requiring yearly influenza vaccines to maintain immunity.
 
 
-
 ## Course Materials
-A list of background readings to provide ample introduction to the topics explored in this project. 
-Student handouts for Modules 1 and 2
-NCBI Collections of influenza hemagglutinin sequences and measles hemagglutinin sequences
+### Instructor materials:
+- Instructor Guide
+- Pre-Activity Quiz Answer Key
+- Student Handout Answer Key
+- Post-Activity Assessment Answer Key
+- Link to [Collection of H1 sequences in NCBI](https://www.ncbi.nlm.nih.gov/protein/?cmd=historysearch&querykey=2)
+- Link to [Collection of Measles HA sequences in NCBI](https://www.ncbi.nlm.nih.gov/protein/?cmd=historysearch&querykey=4)
 
-https://docs.google.com/document/d/1GyfDv7ULIa9tDuJH3vj2_aD7Yp-EzTF9fPydxTx3VTA/edit
+### Student Materials
+- Pre-Activity Quiz
+- Student Handout
+- Post-Activity Assessment
 
 ## Assessments
-As part of the student handout, students will answer a series of questions based on activity components.
+1. A pre-activity quiz ensures that students understand the background information required to comprehend this activity, including a basic background on central dogma, viruses, and immune response to vaccinations.
+2. In the student handout which walks the student through the steps of the activity, short-answer questions are interspersed throughout to reinforce the new information they are learning.
+3. A post-activity assessment evaluates student understanding of the topics introduced in this activity, and allows them to apply this knowledge to novel scenarios revolving around viruses and vaccination.
+
 
 ## Future Work
-Optional section. Briefly mention any potential future development plans for the curriculum package.
+Once students successfully complete this activity, the skills and knowledge can be applied to further topics such as:
+- Exploring the concept of R0, and how that relates to public health and the need for vaccination
+- Exploring the idea of a universal vaccine for influenza
+More details on these topics are provided in the Instructor Guide.
 
 # NCBI Codeathon Disclaimer
 This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
