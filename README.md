@@ -34,16 +34,16 @@ At the end of this course the student will be able to:
 
 
 ## Course Materials
-### Instructor materials:
+### [Instructor materials](https://github.com/NCBI-Codeathons/bioed-2024-team-finlay/tree/d11e302bf0c98d063b99cb7e23996f1e427bbe5e/curriculum_materials/Instructor_Materials):
 - Instructor Guide
-- Pre-Activity Quiz Answer Key
+- Pre-Activity Assessment Answer Key
 - Student Handout Answer Key
 - Post-Activity Assessment Answer Key
 - Link to [Collection of H1 sequences in NCBI](https://www.ncbi.nlm.nih.gov/protein/?cmd=historysearch&querykey=2)
 - Link to [Collection of Measles HA sequences in NCBI](https://www.ncbi.nlm.nih.gov/protein/?cmd=historysearch&querykey=4)
 
-### Student Materials
-- Pre-Activity Quiz
+### [Student Materials](https://github.com/NCBI-Codeathons/bioed-2024-team-finlay/tree/d11e302bf0c98d063b99cb7e23996f1e427bbe5e/curriculum_materials/Student_Materials):
+- Pre-Activity Assessment
 - Student Handout
 - Post-Activity Assessment
 
@@ -51,7 +51,7 @@ At the end of this course the student will be able to:
 
 ## Assessments
 Three assessments are included in the Student Materials for this activity:
-1. A **pre-activity quiz** ensures that students understand the background information required to comprehend this activity, including a basic background on central dogma, viruses, and immune response to vaccinations.
+1. A **pre-activity assessment** ensures that students understand the background information required to comprehend this activity, including a basic background on central dogma, viruses, and immune response to vaccinations.
 2. In the **student handout** which walks the student through the steps of the activity, short-answer questions are interspersed throughout to reinforce the new information they are learning.
 3. A **post-activity assessment** evaluates student understanding of the topics introduced in this activity, and allows them to apply this knowledge to novel scenarios revolving around viruses and vaccination.
 
@@ -59,9 +59,12 @@ Three assessments are included in the Student Materials for this activity:
 
 ## Future Work
 Once students successfully complete this activity, the skills and knowledge can be applied to further topics such as:
-- Exploring the concept of R0, and how that relates to public health and the need for vaccination
-- Exploring the idea of a universal vaccine for influenza
+- Exploring the concept of R0, and how that relates to public health and the need for vaccination.
+- Exploring the idea of a universal vaccine for influenza.
+
 More details on these topics are provided in the Instructor Guide.
+
+---
 
 # NCBI Codeathon Disclaimer
 This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
