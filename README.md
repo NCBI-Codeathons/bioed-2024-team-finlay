@@ -1,4 +1,4 @@
-# Flu Fighters
+# Flu Fighters: The Ever-Evolving Need for New Flu Vaccines
 
 List of participants and affiliations:
 - **Team Leader**: Heather Patterson (University of Alabama at Birmingham)
@@ -15,10 +15,12 @@ In Part 2, students will compare compare H1 amino acid sequence with the H5 subt
 
 In Part 3, students will dive deeper into the concept of antigenic drift, extrapolate on the knowledge from Parts 1 and 2 to explore amino acid sequences of several measles hemagglutinin proteins, and make the connection to why we do not require new measles vaccines periodically as we do for the flu.
 
-**NCBI resources used in this project:**
+## NCBI resources used in this project:
 - COBALT
 - iCn3D
 - NCBI Protein database
+
+---
 
 # Curricular Package Details
 
@@ -45,11 +47,15 @@ At the end of this course the student will be able to:
 - Student Handout
 - Post-Activity Assessment
 
-## Assessments
-1. A pre-activity quiz ensures that students understand the background information required to comprehend this activity, including a basic background on central dogma, viruses, and immune response to vaccinations.
-2. In the student handout which walks the student through the steps of the activity, short-answer questions are interspersed throughout to reinforce the new information they are learning.
-3. A post-activity assessment evaluates student understanding of the topics introduced in this activity, and allows them to apply this knowledge to novel scenarios revolving around viruses and vaccination.
+---
 
+## Assessments
+Three assessments are included in the Student Materials for this activity:
+1. A **pre-activity quiz** ensures that students understand the background information required to comprehend this activity, including a basic background on central dogma, viruses, and immune response to vaccinations.
+2. In the **student handout** which walks the student through the steps of the activity, short-answer questions are interspersed throughout to reinforce the new information they are learning.
+3. A **post-activity assessment** evaluates student understanding of the topics introduced in this activity, and allows them to apply this knowledge to novel scenarios revolving around viruses and vaccination.
+
+---
 
 ## Future Work
 Once students successfully complete this activity, the skills and knowledge can be applied to further topics such as:
